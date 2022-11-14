@@ -1,4 +1,19 @@
-body {
-    font-family: 'Fira Sans', sans-serif;
-  }
-  
+.card {
+    background-color:rgb(255, 190, 25);
+    border-style: solid;
+}
+.search {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+button
+{
+    margin: .5em;
+    border-radius: 50%;
+    border: none;
+    height: 46px;
+    width: 46px;
+    outline: none;
+    cursor: pointer;
+}
