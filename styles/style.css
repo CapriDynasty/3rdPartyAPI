@@ -1,5 +1,5 @@
 .card {
-    background-color:rgb(255, 190, 25);
+    background-color:rgb(150, 13, 204);
     border-style: solid;
 }
 .search {
@@ -7,8 +7,7 @@
     align-items: center;
     justify-content: center;
 }
-button
-{
+.button {
     margin: .5em;
     border-radius: 50%;
     border: none;
@@ -16,4 +15,8 @@ button
     width: 46px;
     outline: none;
     cursor: pointer;
+}
+.weather {
+    text-align: center;
+
 }
